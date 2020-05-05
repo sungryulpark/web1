@@ -1,0 +1,21 @@
+HTML
+    <strong> : Bold
+    <u> : underline
+    <h1> : Title   * <h1> ~ <h6>
+    <br> : 줄 바꿈   *</br> : 없음
+    <p> : 단락
+    <img src = ""> : image insert
+    <li> : list up   *<ul - unordered list> : li parents tag : 단락 바뀜  / <ol - ordered list> : auto numbering
+    <!doctype html> : html, head, body를 감싸는 태그 (이 문서는 html이다)
+    <html> : head, body를 감싸는 태그
+    <head> : body를 설명하는 태그
+    <body> : 본문
+    <title> : webpage name
+    <meta charset> : 현재 utf-8 방식으로 저장되었고, 웹 브라우저가 열 때도 utf-8로 열어야 문제 없음
+    <div>
+    <a> : anchor (정보의 바다에 정박한다) : 링크 = hyper text -> <a + hypertext + reference> -> <a href ="웹 사이트 연결할 주소"></a>
+        링크 클릭했을 때 새 탭이 열리게 하고 싶을 경우 : <a href="주소" target="_blank"></a>
+        링크 위에 커서 올려놨을 때 뭔지 알려주고 싶을 경우 : <a href="주소" target="_blank" title="contents"></a>
+
+이미지(저작권 문제 없음) : unsplash.com
+client computer : request / server computer : response
