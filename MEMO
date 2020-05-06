@@ -19,3 +19,15 @@ HTML
 
 이미지(저작권 문제 없음) : unsplash.com
 client computer : request / server computer : response
+web hosting : 대행 업체 사용 / web server : 본인의 컴퓨터로 돌리는 것 (어려움, 하지만 인터넷과 관련된 여러 개념을 배울 수 있음)
+    1) web hosting 활용해서 쉽게 해보고 -> 2) web server 통해서 원리를 파악
+
+web hosting 업체 : web server 제공해주는 곳
+    Git hub : 무료 (홈페이지 운영할 수 있는 웹서버 제공) *free static web hosting
+
+    웹 브라우저가 마치 자신의 컴퓨터에 있는 파일 처럼 하기 위해서는 웹 브라우저는 웹서버에게 index.html파일을 달라고 해야함
+        달라고 하기 위해서는 IP Adress가 필요하다. 예를 들어 index.htmll 파일이 저장되어 있는 웹 서버의 IP Adress가 
+        120.168.0.1 이라면 웹브라우저에 http://120.168.0.1/index.html 이라고 입력해야 한다. 이렇게 하면 웹 브라우저가
+        웹 서버에 접속해서 거기에 있는 index.html파일을 받을 수 있다. 
+
+        그렇다면 웹 서버가 설치된 컴퓨터의 IP Adress를 어떻게 알아낼 수 있는가?
